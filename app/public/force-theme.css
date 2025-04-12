@@ -1,0 +1,99 @@
+/* Estilos forçados para o tema claro */
+body:not(.dark) header,
+body:not(.dark) header > div,
+body:not(.dark) header > div > *,
+body:not(.dark) .fixed.z-20.w-full {
+  background-color: #f5f7fa !important;
+  border: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+}
+
+body:not(.dark) aside,
+body:not(.dark) .fixed.inset-y-0.left-0.z-20 {
+  background-color: #f5f7fa !important;
+  border-right: 1px solid #e5e7eb !important;
+}
+
+body:not(.dark) aside > div,
+body:not(.dark) .relative.flex-1.flex.flex-col.min-h-0 {
+  background-color: #f5f7fa !important;
+}
+
+/* Estilos forçados para o modo escuro */
+:root.dark {
+  color-scheme: dark;
+}
+
+:root.dark body {
+  background-color: #121212 !important;
+  color: #e2e8f0 !important;
+}
+
+:root.dark header,
+:root.dark header > div,
+:root.dark header > div > *,
+:root.dark .fixed.z-20.w-full {
+  background-color: #1e1e1e !important;
+  border: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+}
+
+:root.dark aside {
+  background-color: #121212 !important;
+  border-right: 1px solid #2d2d2d !important;
+}
+
+:root.dark .bg-white,
+:root.dark .bg-gray-50,
+:root.dark .bg-gray-100,
+:root.dark .bg-gray-200 {
+  background-color: #1e1e1e !important;
+}
+
+:root.dark .text-gray-700,
+:root.dark .text-gray-800,
+:root.dark .text-gray-900 {
+  color: #e2e8f0 !important;
+}
+
+/* Estilos específicos para o botão de toggle */
+.theme-toggle-button {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border: 2px solid #e2e2e2;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+:root.dark .theme-toggle-button {
+  background-color: #2d2d2d !important;
+  border-color: #4d4d4d !important;
+}
+
+/* Controle de visibilidade dos ícones */
+.theme-toggle-light {
+  display: block;
+}
+
+.theme-toggle-dark {
+  display: none;
+}
+
+:root.dark .theme-toggle-light {
+  display: none !important;
+}
+
+:root.dark .theme-toggle-dark {
+  display: block !important;
+}

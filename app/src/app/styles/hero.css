@@ -1,0 +1,19 @@
+.hero-background {
+  background-image: url('https://studio.rardevops.com/storage/v1/object/public/mtm/alnpp-hori.avif');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.hero-overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

@@ -1,0 +1,176 @@
+{
+  "processo": {
+    "numero": "0701552-85.2024.8.02.0001",
+    "classe": "Ação de Exigir Contas",
+    "assunto": "Compromisso",
+    "foro": "Foro de Maceió",
+    "vara": "24ª Vara Cível da Capital / Família",
+    "juiz": "Maysa Cesário Bezerra",
+    "area": "Cível",
+    "valorAcao": "R$ 1.320,00",
+    "distribuicao": "10/01/2024 às 18:36 - Dependência (0719258-86.2021.8.02.0001)"
+  },
+  "partes": {
+    "autores": [
+      {
+        "tipo": "Requerente",
+        "nome": "Klecia Batista Santana",
+        "advogados": [
+          "Madson Borges Delgado",
+          "Flavio Marcelo Guardia",
+          "Madson Borges Delgado Flavio Marcelo Guardia"
+        ]
+      }
+    ],
+    "reus": [
+      {
+        "tipo": "Requerido",
+        "nome": "Klenisson Eduardo Batista Santana",
+        "advogados": [
+          "Laísla Batista Soares Rios"
+        ]
+      }
+    ],
+    "outros": [
+      {
+        "tipo": "LitsPassiv",
+        "nome": "Klênio Batista Santana",
+        "advogados": []
+      }
+    ]
+  },
+  "movimentacoes": [
+    {
+      "data": "11/03/2025",
+      "descricao": "Juntada de Petição\nNº Protocolo: WMAC.25.80025777-9 Tipo da Petição: Manifestação do Promotor Data: 11/03/2025 11:12"
+    },
+    {
+      "data": "03/03/2025",
+      "descricao": "Certidão Emitida\nCertidão de Citação e Intimação - Portal - Ministério Público do Estado de Alagoas - MPAL"
+    },
+    {
+      "data": "20/02/2025",
+      "descricao": "Vista ao MP - Portal Eletrônico"
+    },
+    {
+      "data": "20/02/2025",
+      "descricao": "Certidão Emitida\nCertidão de Remessa de Citação e Intimação para o Portal - Ministério Público do Estado de Alagoas - MPAL"
+    },
+    {
+      "data": "19/02/2025",
+      "descricao": "Vista ao Ministério Público"
+    },
+    {
+      "data": "11/03/2025",
+      "descricao": "Juntada de Petição\nNº Protocolo: WMAC.25.80025777-9\nTipo da Petição: Manifestação do Promotor\nData: 11/03/2025 11:12"
+    },
+    {
+      "data": "03/03/2025",
+      "descricao": "Certidão Emitida\nCertidão de Citação e Intimação - Portal - Ministério Público do Estado de Alagoas - MPAL"
+    },
+    {
+      "data": "20/02/2025",
+      "descricao": "Vista ao MP - Portal Eletrônico"
+    },
+    {
+      "data": "20/02/2025",
+      "descricao": "Certidão Emitida\nCertidão de Remessa de Citação e Intimação para o Portal - Ministério Público do Estado de Alagoas - MPAL"
+    },
+    {
+      "data": "19/02/2025",
+      "descricao": "Vista ao Ministério Público"
+    },
+    {
+      "data": "18/02/2025",
+      "descricao": "Despacho de Mero Expediente\nDESPACHO VISTA MINISTÉRIO PÚBLICO - 60002"
+    },
+    {
+      "data": "11/10/2024",
+      "descricao": "Concluso para Despacho"
+    },
+    {
+      "data": "10/10/2024",
+      "descricao": "Juntada de Documento\nNº Protocolo: WMAC.24.70401795-8\nTipo da Petição: Manifestação do Autor\nData: 10/10/2024 21:25"
+    },
+    {
+      "data": "18/09/2024",
+      "descricao": "Ato Publicado\nRelação: 0840/2024\nData da Publicação: 19/09/2024\nNúmero do Diário: 3628"
+    },
+    {
+      "data": "17/09/2024",
+      "descricao": "Disponibilização no Diário da Justiça Eletrônico\nRelação: 0840/2024\nTeor do ato: DESPACHO Intime-se o autor, por meio de seu causídico, para, no prazo de 15(quinze) dias, se manifestar acerca da contestação e reconvenção apresentada pelo réu. Bem como, coloque-se o feito em pauta de audiência de instrução. Intimações necessárias. Maceió(AL), 17 de setembro de 2024. Maysa Cesário Bezerra Juiza de Direito\nAdvogados(s): Madson Borges Delgado (OAB 11327/AL), Laísla Batista Soares Rios (OAB 15671/AL)"
+    },
+    {
+      "data": "17/09/2024",
+      "descricao": "Despacho de Mero Expediente\nDESPACHO Intime-se o autor, por meio de seu causídico, para, no prazo de 15(quinze) dias, se manifestar acerca da contestação e reconvenção apresentada pelo réu. Bem como, coloque-se o feito em pauta de audiência de instrução. Intimações necessárias. Maceió(AL), 17 de setembro de 2024. Maysa Cesário Bezerra Juiza de DireitoVencimento: 08/10/2024"
+    },
+    {
+      "data": "01/08/2024",
+      "descricao": "Concluso para Despacho"
+    },
+    {
+      "data": "01/04/2024",
+      "descricao": "Juntada de Mandado"
+    },
+    {
+      "data": "01/04/2024",
+      "descricao": "Mandado devolvido cumprido\n.CM - Ato positivo"
+    },
+    {
+      "data": "19/03/2024",
+      "descricao": "Juntada de Documentos\nNº Protocolo: WMAC.24.70102659-0\nTipo da Petição: Contestação\nData: 19/03/2024 10:56"
+    },
+    {
+      "data": "18/03/2024",
+      "descricao": "Juntada de Mandado"
+    },
+    {
+      "data": "18/03/2024",
+      "descricao": "Juntada de Mandado"
+    },
+    {
+      "data": "18/03/2024",
+      "descricao": "Mandado devolvido cumprido\n.CM - Ato positivo"
+    },
+    {
+      "data": "27/02/2024",
+      "descricao": "Certidão\nCERTIDÃO CERTIFICO, para os devidos fins que, torno sem efeito a Carta Precatória de fls. 397, em virtude da expedição do mandado de citação (Outro Foro) para Sr. Klênio Batista Santana de fls. 398. O referido é verdade e dou fé. Maceió, 27 de fevereiro de 2024."
+    },
+    {
+      "data": "27/02/2024",
+      "descricao": "Certidão\nCERTIDÃO CERTIFICO, para os devidos fins que, por economia e celeridade processual foi expedido o mandado de citação (Outro Foro) para o requerido Klênio Batista Santana, em vez de encaminhar a carta precatória de fls. 397. O referido é verdade e dou fé. Maceió, 27 de fevereiro de 2024."
+    },
+    {
+      "data": "27/02/2024",
+      "descricao": "Mandado Expedido\nMandado nº: 001.2024/015387-2\nSituação: Cumprido - Ato positivo em 01/04/2024\nLocal: Oficial de justiça - Joseane Ricardo Gomes Valença"
+    },
+    {
+      "data": "21/02/2024",
+      "descricao": "Ato Publicado\nRelação: 0121/2024\nData da Publicação: 22/02/2024\nNúmero do Diário: 3480"
+    },
+    {
+      "data": "20/02/2024",
+      "descricao": "Mandado Recebido na Central de Mandados\nOcorreu o recebimento de um Mandado pela Central de Mandados."
+    },
+    {
+      "data": "20/02/2024",
+      "descricao": "Mandado Expedido\nMandado nº: 001.2024/013090-2\nSituação: Cumprido - Ato positivo em 18/03/2024\nLocal: Oficial de justiça - Ana Cláudia Costa Moura"
+    },
+    {
+      "data": "20/02/2024",
+      "descricao": "Disponibilização no Diário da Justiça Eletrônico\nRelação: 0121/2024\nTeor do ato: DESPACHO: Cite-se a parte requerida para querendo oferecer resposta no prazo legal. Maceió(AL), 22 de janeiro de 2024. Maysa Cesário Bezerra. Juiza de Direito\nAdvogados(s): Madson Borges Delgado (OAB 11327/AL)"
+    },
+    {
+      "data": "22/01/2024",
+      "descricao": "Despacho de Mero Expediente\nDESPACHO: Cite-se a parte requerida para querendo oferecer resposta no prazo legal. Maceió(AL), 22 de janeiro de 2024. Maysa Cesário Bezerra. Juiza de Direito"
+    },
+    {
+      "data": "10/01/2024",
+      "descricao": "Conclusos"
+    },
+    {
+      "data": "10/01/2024",
+      "descricao": "Distribuído por Dependência\nProcesso vinculado à ação de curatela. Art. 286 CPC."
+    }
+  ]
+}

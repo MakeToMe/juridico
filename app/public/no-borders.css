@@ -1,0 +1,33 @@
+/* Arquivo para remover completamente todas as bordas e sombras */
+header,
+header *,
+.navbar,
+.navbar *,
+.fixed.z-20,
+.fixed.z-20 * {
+  border: none !important;
+  border-bottom: none !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  outline: none !important;
+}
+
+/* Remover linha específica abaixo do header */
+header::after,
+header::before,
+header > *::after,
+header > *::before,
+.fixed.z-20::after,
+.fixed.z-20::before,
+.fixed.z-20 > *::after,
+.fixed.z-20 > *::before {
+  display: none !important;
+  content: none !important;
+  border: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}

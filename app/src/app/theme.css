@@ -1,0 +1,163 @@
+/* Garantir que as classes do modo escuro sejam aplicadas corretamente */
+:root {
+  --navbar-bg: #f5f7fa;
+}
+
+:root.dark {
+  color-scheme: dark;
+  --navbar-bg: #1e1e1e;
+}
+
+/* Forçar cores para o tema claro */
+body {
+  background-color: #f5f7fa !important;
+  color: #1a1a1a !important;
+}
+
+/* Forçar cores para o modo escuro */
+:root.dark body {
+  background-color: #121212 !important;
+  color: #e2e8f0 !important;
+}
+
+/* Cores para navbar e elementos no tema claro */
+header,
+header.bg-gray-50,
+header.bg-white,
+.fixed.z-20.w-full.bg-gray-50,
+.fixed.z-20.w-full.bg-white,
+header > div,
+header > div.bg-white,
+header > div.bg-gray-50 {
+  background-color: #f5f7fa !important;
+  border: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+}
+
+/* Cores para cards e elementos no tema claro */
+.bg-white,
+.bg-gray-50,
+.bg-gray-100 {
+  background-color: #ffffff !important;
+  border-color: #e5e7eb !important;
+}
+
+/* Cores específicas para o modo escuro */
+:root.dark .bg-gray-50,
+:root.dark .bg-white,
+:root.dark header,
+:root.dark nav,
+:root.dark .fixed.z-20.w-full.bg-gray-50,
+:root.dark .fixed.z-20.w-full.bg-white,
+:root.dark header > div,
+:root.dark header > div.bg-white,
+:root.dark header > div.bg-gray-50 {
+  background-color: #1e1e1e !important;
+  border: none !important;
+}
+
+:root.dark .text-gray-700,
+:root.dark .text-gray-800,
+:root.dark .text-gray-900 {
+  color: #e2e8f0 !important;
+}
+
+/* Cores para o sidebar */
+aside,
+aside.bg-white,
+aside.bg-gray-50,
+aside.bg-gray-100,
+.fixed.inset-y-0.left-0.z-20,
+.fixed.inset-y-0.left-0.z-20.bg-white,
+.fixed.inset-y-0.left-0.z-20.bg-gray-50 {
+  background-color: #f5f7fa !important;
+  border-right: 1px solid #e5e7eb !important;
+}
+
+aside > div,
+aside > div.bg-white,
+aside > div.bg-gray-50,
+aside > div.bg-gray-100,
+.relative.flex-1.flex.flex-col.min-h-0,
+.relative.flex-1.flex.flex-col.min-h-0.bg-white,
+.relative.flex-1.flex.flex-col.min-h-0.bg-gray-50 {
+  background-color: #f5f7fa !important;
+}
+
+/* Cores para os itens do menu lateral no tema claro */
+aside nav a,
+aside nav button {
+  background-color: transparent !important;
+  color: #4b5563 !important;
+}
+
+aside nav a:hover,
+aside nav button:hover {
+  background-color: #edf2f7 !important;
+  color: #1f2937 !important;
+}
+
+aside nav a.active,
+aside nav a[aria-current="page"] {
+  background-color: #ffffff !important;
+  color: #1F3626 !important;
+  font-weight: 600 !important;
+}
+
+/* Cores para o sidebar no modo escuro */
+:root.dark aside {
+  background-color: #121212 !important;
+  border-right: 1px solid #2d2d2d !important;
+}
+
+:root.dark aside > div {
+  background-color: #121212 !important;
+}
+
+/* Cores para os cards no modo escuro */
+:root.dark .bg-white,
+:root.dark [class*="bg-gray-"] {
+  background-color: #1e1e1e !important;
+  border-color: #2d2d2d !important;
+}
+
+/* Estilização específica para o botão de toggle */
+.theme-toggle-button {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #e2e2e2;
+  background-color: white;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+:root.dark .theme-toggle-button {
+  background-color: #2d2d2d !important;
+  border-color: #4d4d4d !important;
+}
+
+/* Controle de exibição dos ícones */
+.theme-toggle-light {
+  display: block;
+}
+
+.theme-toggle-dark {
+  display: none;
+}
+
+:root.dark .theme-toggle-light {
+  display: none !important;
+}
+
+:root.dark .theme-toggle-dark {
+  display: block !important;
+}
