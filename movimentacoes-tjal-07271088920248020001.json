@@ -1,0 +1,208 @@
+{
+  "processo": {
+    "numero": "0727108-89.2024.8.02.0001",
+    "classe": "Cumprimento Provisório de Sentença",
+    "assunto": "Constrição / Penhora / Avaliação / Indisponibilidade de Bens",
+    "foro": "Foro de Maceió",
+    "vara": "5ª Vara Cível da Capital",
+    "juiz": "Maurício César Breda Filho",
+    "area": "Cível",
+    "valorAcao": "R$ 229.304,55",
+    "distribuicao": "05/06/2024 às 13:37 - Dependência (0736342-66.2022.8.02.0001)"
+  },
+  "partes": {
+    "autores": [
+      {
+        "tipo": "Autor",
+        "nome": "Luna & Guardia Sociedade de Advogados",
+        "advogados": [
+          "Flavio Marcelo Guardia"
+        ]
+      }
+    ],
+    "reus": [
+      {
+        "tipo": "Réu",
+        "nome": "Localyne Transporte Tur. Ltda",
+        "advogados": [
+          "Márcio Macedo Conrado",
+          "Rodrigo Fernandes da Fonseca"
+        ]
+      }
+    ]
+  },
+  "movimentacoes": [
+    {
+      "data": "28/03/2025",
+      "descricao": "Juntada de Documento\nTipo da Petição: Comunicação de Decisão - 2º Grau Data: 28/03/2025 00:00"
+    },
+    {
+      "data": "10/03/2025",
+      "descricao": "Juntada de Petição\nNº Protocolo: WMAC.25.70100181-4 Tipo da Petição: Petição Data: 10/03/2025 11:08"
+    },
+    {
+      "data": "10/03/2025",
+      "descricao": "Juntada de Petição\nEntranhado o processo 0727108-89.2024.8.02.0001/80006 - Classe: Petição em Cumprimento Provisório de Sentença - Assunto principal: Constrição / Penhora / Avaliação / Indisponibilidade de Bens"
+    },
+    {
+      "data": "25/02/2025",
+      "descricao": "Concluso para Despacho"
+    },
+    {
+      "data": "25/02/2025",
+      "descricao": "Ato Publicado\nRelação: 0254/2025 Data da Publicação: 26/02/2025 Número do Diário: 3737 Página:"
+    },
+    {
+      "data": "28/03/2025",
+      "descricao": "Juntada de Documento\nTipo da Petição: Comunicação de Decisão - 2º Grau\nData: 28/03/2025 00:00"
+    },
+    {
+      "data": "10/03/2025",
+      "descricao": "Juntada de Petição\nNº Protocolo: WMAC.25.70100181-4\nTipo da Petição: Petição\nData: 10/03/2025 11:08"
+    },
+    {
+      "data": "10/03/2025",
+      "descricao": "Juntada de Petição\nEntranhado o processo 0727108-89.2024.8.02.0001/80006 - Classe: Petição em Cumprimento Provisório de Sentença - Assunto principal: Constrição / Penhora / Avaliação / Indisponibilidade de Bens"
+    },
+    {
+      "data": "25/02/2025",
+      "descricao": "Concluso para Despacho"
+    },
+    {
+      "data": "25/02/2025",
+      "descricao": "Ato Publicado\nRelação: 0254/2025\nData da Publicação: 26/02/2025\nNúmero do Diário: 3737\nPágina:"
+    },
+    {
+      "data": "25/02/2025",
+      "descricao": "Disponibilização no Diário da Justiça Eletrônico\nRelação: 0254/2025\nTeor do ato: Iniciada a fase de cobrança de custas em meio eletrônico.\nFica intimada a parte, pelo seu advogado, para fazer o pagamento das custas finais conforme valores a seguir: Localyne Transporte Tur. Ltda, R$ 6.457,25\nAdvogados(s): Márcio Macedo Conrado (OAB 3806/SE), Rodrigo Fernandes da Fonseca (OAB 6209/SE)"
+    },
+    {
+      "data": "24/02/2025",
+      "descricao": "Devolvido CJU - Cálculo de Custas Finais Realizado\nDevolvido CJU - Cálculo de Custas Finais Realizado"
+    },
+    {
+      "data": "24/02/2025",
+      "descricao": "Realizado cálculo de custas"
+    },
+    {
+      "data": "24/02/2025",
+      "descricao": "Recebimento de Processo no GECOF\nCertidão de Recebimento de Processo no GECOF"
+    },
+    {
+      "data": "24/02/2025",
+      "descricao": "Análise de Custas Finais - GECOF\nIniciada a fase de cobrança de custas em meio eletrônico.\nFica intimada a parte, pelo seu advogado, para fazer o pagamento das custas finais conforme valores a seguir: Localyne Transporte Tur. Ltda, R$ 6.457,25"
+    },
+    {
+      "data": "24/02/2025",
+      "descricao": "Concluso para Decisão"
+    },
+    {
+      "data": "24/02/2025",
+      "descricao": "Remessa à CJU - Custas"
+    },
+    {
+      "data": "24/02/2025",
+      "descricao": "Transitado em Julgado\nCertidão Trânsito em Julgado - Altera Situação para Trânsitado em julgado"
+    },
+    {
+      "data": "18/02/2025",
+      "descricao": "Juntada de Petição\nNº Protocolo: WMAC.25.70073138-0\nTipo da Petição: Petição\nData: 18/02/2025 15:29"
+    },
+    {
+      "data": "17/02/2025",
+      "descricao": "Juntada de Documento\nNº Protocolo: WMAC.25.70069009-8\nTipo da Petição: Pedido de Bloqueio\nData: 17/02/2025 00:38"
+    },
+    {
+      "data": "19/12/2024",
+      "descricao": "Ato Publicado\nRelação: 1416/2024\nData da Publicação: 21/01/2025\nNúmero do Diário: 3691"
+    },
+    {
+      "data": "18/12/2024",
+      "descricao": "Disponibilização no Diário da Justiça Eletrônico\nRelação: 1416/2024\nTeor do ato: SENTENÇA Trata-se de cumprimento de sentença formulado por Luna & Guardia Sociedade de Advogados, em desfavor de Localyne Transporte Tur. Ltda, ambos devidamente qualificados. Em suas razões, afirma a parte credora ter direito ao montante de R$ 229.304,55 (duzentos e vinte e nove mil, trezentos e quatro reais e cinquenta e cinco centavos), decorrente do êxito nos embargos à execução 0736342-66.2022.8.02.0001, que foi julgado improcedente, condenando a empresa Localyne Transporte Tur. Ltda a pagar o valor de 10% (dez por cento) sobre o valor atualizado da causa a título de honorários advocatícios. Ao impugnar o presente cumprimento de sentença, a parte executada alega que não há que se falar em título executivo, pois a sentença que condenou nos ônus sucumbenciais foi proferida 05 (cinco) meses após a homologação da desistência do processo executivo. Afirma ainda que a obrigação seria inexequível, pois ainda hoje o processo que condenou nos ônus sucumbenciais ainda está pendente de julgamento de recurso, bem como o valor de 10% (dez por cento) arbitrado deve ser dividido por 3 partes, já que foram 03 advogados. A parte exequente apresentou réplica às fls. 73/80. Intimadas quanto a produção de provas, nenhuma das partes fez qualquer requerimento. É o relatório. Decido. Compulsando os autos, bem como os demais processos correlacionados, entendo que assiste razão à parte exequente. Explico. De fato, ao ser julgado os embargos à execução 0736342-66.2022.8.02.0001, ocorrido em 22/10/2023, o pedido de desistência da ação de execução com relação ao exequente Pichin Advocacia já havia sido homologado conforme decisão de fls. 210 dos autos 0720779-32.2022.8.01.0001, ocorrido em 23/05/2023. Diante da homologação da desistência em 23/05/2023, conforme bem salientou a parte executada/impugnante, os embargos à execução perdeu o objeto com relação à parte Pichin Advocacia, tendo permanecido em razão da habilitação dos advogados Johnatan Peixoto Araujo e Ivan Bergson Vaz de Oliveira. Ocorre que, a perda do objeto dos embargos à execução gera, na relação processual havida entre Pchin Advocacia e Localyne Transporte Tur. Ltda. a extinção do processo sem julgamento do mérito, com igual condenação em honorários de sucumbência, que, pelo principio da causalidade, deve recair sobre a empresa embargante, pois foi quem deu causa tanto ao processo de execução, quanto aos embargos. Esse é o entendimento jurisprudencial dominante, observem: EMENTA: APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - EXTINÇÃO DA EXECUÇÃO - PERDA SUPERVENIENTE DO OBJETO - PREJUDICIALIDADE - HONORÁRIOS ADVOCATÍCIOS - PRINCÍPIO DA CAUSALIDADE. A extinção da execução sem resolução do mérito acarreta consequentemente a extinção dos embargos, pela perda superveniente do objeto, nos termos do artigo 485, IV e VI, do CPC. De acordo com o princípio da causalidade, a parte que deu ensejo à propositura da demanda deverá suportar o pagamento dos honorários advocatícios. (TJ-MG - AC: 10000210797957001 MG, Relator: Marcelo Pereira da Silva (JD Convocado), Data de Julgamento: 16/12/2021, Câmaras Cíveis / 12ª CÂMARA CÍVEL, Data de Publicação: 13/01/2022) APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PEDIDO DE DESISTÊNCIA PELO EXECUTADO NA AÇÃO EXECUTIVA. HOMOLOGAÇÃO PELO JUÍZO. PERDA SUPERVENIENTE DO OBJETO E DO INTERESSE PROCESSUAL. MEDIDA QUE SE IMPÕE É A DE CASSAR A SENTENÇA DE OFÍCIO. ART. 485, IV DO CPC. VÍNCULO DE ACESSORIEDADE DOS EMBARGOS À EXECUÇÃO EM RELAÇÃO À AÇÃO EXECUTIVA. EXTINÇÃO DA DEMANDA PRINCIPAL IMPLICA NA EXTINÇÃO DOS EMBARGOS À EXECUÇÃO. PRECEDENTES. ÔNUS DA SUCUMBÊNCIA FIXADO PELO PRINCÍPIO DA CAUSALIDADE. HONORÁRIOS DE SUCUMBÊNCIA FIXADOS. ENTENDIMENTO DO STJ. SENTENÇA CASSADA DE OFÍCIO. RECURSO PREJUDICADO. (TJPR - 14ª Câmara Cível - 0015415-33.2019.8.16.0035 - São José dos Pinhais - Rel.: JUÍZA DE DIREITO SUBSTITUTO EM SEGUNDO GRAU CRISTIANE SANTOS LEITE - J. 22.02.2023) (TJ-PR - APL: 00154153320198160035 São José dos Pinhais 0015415-33.2019.8.16.0035 (Acórdão), Relator: Cristiane Santos Leite, Data de Julgamento: 22/02/2023, 14ª Câmara Cível, Data de Publicação: 22/02/2023) Pelas mesmas razões, não prospera o argumento de que o presente cumprimento de sentença seria inexequível, em razão da sentença dos embargos à execução estar pendente de julgamento de recurso, pois, além do acordo firmado na execução entre os credores remanescentes (Johnatan Peixoto e Ivan Bergson) ter exaurido o objeto dos embargos, tal decisão, conforme dito alhures, não reflete na situação jurídica da ora exequente, pois para si, os embargos à execução teria perdido seu objeto desde maio/2023, quando houve a homologação do pedido de desistência. Dito isto, julgo PROCEDENTE o presente cumprimento de sentença, reconhecendo o crédito exequendo e condenando a parte executada ao pagamento do débito atualizado, além das custas processuais e dos honorários advocatícios, estes no importe de 10% (dez por cento), com fulcro no art. 85, §1º e §2º, do diploma processual civil. Publique-se. Registre-se. Intime-se. Maceió,18 de dezembro de 2024. Maurício César Breda Filho Juiz de Direito\nAdvogados(s): Márcio Macedo Conrado (OAB 3806/SE), Flavio Marcelo Guardia (OAB 34067/PE), Rodrigo Fernandes da Fonseca (OAB 6209/SE)"
+    },
+    {
+      "data": "18/12/2024",
+      "descricao": "Julgado procedente o pedido\nSENTENÇA Trata-se de cumprimento de sentença formulado por Luna & Guardia Sociedade de Advogados, em desfavor de Localyne Transporte Tur. Ltda, ambos devidamente qualificados. Em suas razões, afirma a parte credora ter direito ao montante de R$ 229.304,55 (duzentos e vinte e nove mil, trezentos e quatro reais e cinquenta e cinco centavos), decorrente do êxito nos embargos à execução 0736342-66.2022.8.02.0001, que foi julgado improcedente, condenando a empresa Localyne Transporte Tur. Ltda a pagar o valor de 10% (dez por cento) sobre o valor atualizado da causa a título de honorários advocatícios. Ao impugnar o presente cumprimento de sentença, a parte executada alega que não há que se falar em título executivo, pois a sentença que condenou nos ônus sucumbenciais foi proferida 05 (cinco) meses após a homologação da desistência do processo executivo. Afirma ainda que a obrigação seria inexequível, pois ainda hoje o processo que condenou nos ônus sucumbenciais ainda está pendente de julgamento de recurso, bem como o valor de 10% (dez por cento) arbitrado deve ser dividido por 3 partes, já que foram 03 advogados. A parte exequente apresentou réplica às fls. 73/80. Intimadas quanto a produção de provas, nenhuma das partes fez qualquer requerimento. É o relatório. Decido. Compulsando os autos, bem como os demais processos correlacionados, entendo que assiste razão à parte exequente. Explico. De fato, ao ser julgado os embargos à execução 0736342-66.2022.8.02.0001, ocorrido em 22/10/2023, o pedido de desistência da ação de execução com relação ao exequente Pichin Advocacia já havia sido homologado conforme decisão de fls. 210 dos autos 0720779-32.2022.8.01.0001, ocorrido em 23/05/2023. Diante da homologação da desistência em 23/05/2023, conforme bem salientou a parte executada/impugnante, os embargos à execução perdeu o objeto com relação à parte Pichin Advocacia, tendo permanecido em razão da habilitação dos advogados Johnatan Peixoto Araujo e Ivan Bergson Vaz de Oliveira. Ocorre que, a perda do objeto dos embargos à execução gera, na relação processual havida entre Pchin Advocacia e Localyne Transporte Tur. Ltda. a extinção do processo sem julgamento do mérito, com igual condenação em honorários de sucumbência, que, pelo principio da causalidade, deve recair sobre a empresa embargante, pois foi quem deu causa tanto ao processo de execução, quanto aos embargos. Esse é o entendimento jurisprudencial dominante, observem: EMENTA: APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - EXTINÇÃO DA EXECUÇÃO - PERDA SUPERVENIENTE DO OBJETO - PREJUDICIALIDADE - HONORÁRIOS ADVOCATÍCIOS - PRINCÍPIO DA CAUSALIDADE. A extinção da execução sem resolução do mérito acarreta consequentemente a extinção dos embargos, pela perda superveniente do objeto, nos termos do artigo 485, IV e VI, do CPC. De acordo com o princípio da causalidade, a parte que deu ensejo à propositura da demanda deverá suportar o pagamento dos honorários advocatícios. (TJ-MG - AC: 10000210797957001 MG, Relator: Marcelo Pereira da Silva (JD Convocado), Data de Julgamento: 16/12/2021, Câmaras Cíveis / 12ª CÂMARA CÍVEL, Data de Publicação: 13/01/2022) APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PEDIDO DE DESISTÊNCIA PELO EXECUTADO NA AÇÃO EXECUTIVA. HOMOLOGAÇÃO PELO JUÍZO. PERDA SUPERVENIENTE DO OBJETO E DO INTERESSE PROCESSUAL. MEDIDA QUE SE IMPÕE É A DE CASSAR A SENTENÇA DE OFÍCIO. ART. 485, IV DO CPC. VÍNCULO DE ACESSORIEDADE DOS EMBARGOS À EXECUÇÃO EM RELAÇÃO À AÇÃO EXECUTIVA. EXTINÇÃO DA DEMANDA PRINCIPAL IMPLICA NA EXTINÇÃO DOS EMBARGOS À EXECUÇÃO. PRECEDENTES. ÔNUS DA SUCUMBÊNCIA FIXADO PELO PRINCÍPIO DA CAUSALIDADE. HONORÁRIOS DE SUCUMBÊNCIA FIXADOS. ENTENDIMENTO DO STJ. SENTENÇA CASSADA DE OFÍCIO. RECURSO PREJUDICADO. (TJPR - 14ª Câmara Cível - 0015415-33.2019.8.16.0035 - São José dos Pinhais - Rel.: JUÍZA DE DIREITO SUBSTITUTO EM SEGUNDO GRAU CRISTIANE SANTOS LEITE - J. 22.02.2023) (TJ-PR - APL: 00154153320198160035 São José dos Pinhais 0015415-33.2019.8.16.0035 (Acórdão), Relator: Cristiane Santos Leite, Data de Julgamento: 22/02/2023, 14ª Câmara Cível, Data de Publicação: 22/02/2023) Pelas mesmas razões, não prospera o argumento de que o presente cumprimento de sentença seria inexequível, em razão da sentença dos embargos à execução estar pendente de julgamento de recurso, pois, além do acordo firmado na execução entre os credores remanescentes (Johnatan Peixoto e Ivan Bergson) ter exaurido o objeto dos embargos, tal decisão, conforme dito alhures, não reflete na situação jurídica da ora exequente, pois para si, os embargos à execução teria perdido seu objeto desde maio/2023, quando houve a homologação do pedido de desistência. Dito isto, julgo PROCEDENTE o presente cumprimento de sentença, reconhecendo o crédito exequendo e condenando a parte executada ao pagamento do débito atualizado, além das custas processuais e dos honorários advocatícios, estes no importe de 10% (dez por cento), com fulcro no art. 85, §1º e §2º, do diploma processual civil. Publique-se. Registre-se. Intime-se. Maceió,18 de dezembro de 2024. Maurício César Breda Filho Juiz de DireitoVencimento: 07/02/2025"
+    },
+    {
+      "data": "30/09/2024",
+      "descricao": "Concluso para Sentença"
+    },
+    {
+      "data": "26/09/2024",
+      "descricao": "Juntada de Documento\nNº Protocolo: WMAC.24.70378176-0\nTipo da Petição: Manifestação do Autor\nData: 26/09/2024 10:14"
+    },
+    {
+      "data": "25/09/2024",
+      "descricao": "Juntada de Petição\nNº Protocolo: WMAC.24.70377601-4\nTipo da Petição: Petição\nData: 25/09/2024 19:48"
+    },
+    {
+      "data": "09/09/2024",
+      "descricao": "Ato Publicado\nRelação: 0909/2024\nData da Publicação: 10/09/2024\nNúmero do Diário: 3622"
+    },
+    {
+      "data": "06/09/2024",
+      "descricao": "Disponibilização no Diário da Justiça Eletrônico\nRelação: 0909/2024\nTeor do ato: DESPACHO Intimem-se as partes para que, no prazo de 10 (dez) dias, informem se têm interesse em conciliar ou se pretendem produzir provas. Neste último caso, deverão os litigantes indicar especificamente quais provas desejam ver produzidas e sua pertinência à resolução da controvérsia, sob pena de indeferimento. No mesmo prazo acima assinalado, deverão as partes indicar seus telefones e endereços eletrônicos de modo a viabilizar, se for o caso, audiência por videoconferência. Publique-se. Registre-se. Intime-se. Maceió(AL), 05 de setembro de 2024. Maurício César Breda Filho Juiz de Direito\nAdvogados(s): Márcio Macedo Conrado (OAB 3806/SE), Flavio Marcelo Guardia (OAB 34067/PE), Rodrigo Fernandes da Fonseca (OAB 6209/SE)"
+    },
+    {
+      "data": "06/09/2024",
+      "descricao": "Despacho de Mero Expediente\nDESPACHO Intimem-se as partes para que, no prazo de 10 (dez) dias, informem se têm interesse em conciliar ou se pretendem produzir provas. Neste último caso, deverão os litigantes indicar especificamente quais provas desejam ver produzidas e sua pertinência à resolução da controvérsia, sob pena de indeferimento. No mesmo prazo acima assinalado, deverão as partes indicar seus telefones e endereços eletrônicos de modo a viabilizar, se for o caso, audiência por videoconferência. Publique-se. Registre-se. Intime-se. Maceió(AL), 05 de setembro de 2024. Maurício César Breda Filho Juiz de DireitoVencimento: 23/09/2024"
+    },
+    {
+      "data": "02/09/2024",
+      "descricao": "Concluso para Sentença"
+    },
+    {
+      "data": "27/08/2024",
+      "descricao": "Juntada de Documento\nNº Protocolo: WMAC.24.70333812-2\nTipo da Petição: Manifestação Sobre Impugnação\nData: 27/08/2024 23:07"
+    },
+    {
+      "data": "05/08/2024",
+      "descricao": "Ato Publicado\nRelação: 0738/2024\nData da Publicação: 06/08/2024\nNúmero do Diário: 3598"
+    },
+    {
+      "data": "02/08/2024",
+      "descricao": "Disponibilização no Diário da Justiça Eletrônico\nRelação: 0738/2024\nTeor do ato: ATO ORDINATÓRIO Em cumprimento ao disposto nos artigos 383 e 384 do Provimento nº 13/2023, da Corregedoria-Geral da Justiça do Estado de Alagoas e, em virtude da Impugnação de Sentença apresentada, abro vista dos autos ao advogado da parte impugnada pelo prazo de 15 dias.\nAdvogados(s): Márcio Macedo Conrado (OAB 3806/SE), Flavio Marcelo Guardia (OAB 34067/PE), Rodrigo Fernandes da Fonseca (OAB 6209/SE)"
+    },
+    {
+      "data": "02/08/2024",
+      "descricao": "Ato ordinatório praticado\nATO ORDINATÓRIO Em cumprimento ao disposto nos artigos 383 e 384 do Provimento nº 13/2023, da Corregedoria-Geral da Justiça do Estado de Alagoas e, em virtude da Impugnação de Sentença apresentada, abro vista dos autos ao advogado da parte impugnada pelo prazo de 15 dias.Vencimento: 23/08/2024"
+    },
+    {
+      "data": "25/07/2024",
+      "descricao": "Juntada de Petição\nNº Protocolo: WMAC.24.70285501-8\nTipo da Petição: Petição\nData: 25/07/2024 16:11"
+    },
+    {
+      "data": "19/06/2024",
+      "descricao": "Ato Publicado\nRelação: 0575/2024\nData da Publicação: 20/06/2024\nNúmero do Diário: 3566"
+    },
+    {
+      "data": "18/06/2024",
+      "descricao": "Disponibilização no Diário da Justiça Eletrônico\nRelação: 0575/2024\nTeor do ato: DECISÃO Trata-se de procedimento de cumprimento provisório de decisão inaugurado por Luna & Guardia Sociedade de Advogados, em face de Localyne Transporte Tur. Ltda, ambos já devidamente qualificados nestes autos. No presente procedimento, a requerente pretende que a parte ré seja compelida a efetuar o pagamento de R$ 229.304,55 (duzentos e vinte e nove mil, trezentos e quatro reais e cinquenta e cinco centavos) a título de honorários sucumbenciais, considerando o descumprimento, pela executada, da liminar prolatada por este Juízo no bojo dos autos principais. Pois bem. Considerando que é possível o cumprimento provisório das astreintes, nos termos do art. 537, §3º do CPC/15, determino a intimação da devedora para que, no prazo de 15 (quinze) dias, nos termos do art. 523, caput, do diploma processual civil, efetue o pagamento da multa cominatória no valor de R$ 229.304,55 (duzentos e vinte e nove mil, trezentos e quatro reais e cinquenta e cinco centavos), ante a delimitação exarada no comando judicial inobservado. Além disso, impende consignar, de pronto, que caso não efetuado o pagamento da referida quantia no prazo mencionado, o montante da condenação será acrescido de multa no percentual de 10% (dez por cento), além de honorários advocatícios também no importe de 10% (dez por cento) sobre o montante objeto da dívida, a teor do art. 523, §1º, do CPC/15. No mais, registro que, na falta do pagamento voluntário e tempestivo, será expedido, desde logo, mandado de penhora e avaliação, seguindo-se os atos de expropriação, nos moldes do art. 523, §3º, da Lei nº 13.105/2015, ressaltando, porém, que o presente procedimento corre por iniciativa e responsabilidade do exequente, que se obriga, se a sentença for reformada, a reparar os danos que o executado haja sofrido. Ademais, consigno, desde já, que o levantamento do valor objeto do presente cumprimento se sujeita ao trânsito em julgado da sentença favorável à parte peticionante. Por fim, transcorrido o prazo previsto para pagamento voluntário sem que este tenha sido realizado,o executado poderá apresentar impugnação, querendo, no prazo de 15 (quinze dias), nos termos dos arts. 520, §1º, e 525 do diploma processual civil. Publique-se. Registre-se. Intimem-se. Maceió , 05 de junho de 2024. Maurício César Breda Filho Juiz de Direito\nAdvogados(s): Márcio Macedo Conrado (OAB 3806/SE), Flavio Marcelo Guardia (OAB 34067/PE), Rodrigo Fernandes da Fonseca (OAB 6209/SE)"
+    },
+    {
+      "data": "18/06/2024",
+      "descricao": "Republicado\nDECISÃO Trata-se de procedimento de cumprimento provisório de decisão inaugurado por Luna & Guardia Sociedade de Advogados, em face de Localyne Transporte Tur. Ltda, ambos já devidamente qualificados nestes autos. No presente procedimento, a requerente pretende que a parte ré seja compelida a efetuar o pagamento de R$ 229.304,55 (duzentos e vinte e nove mil, trezentos e quatro reais e cinquenta e cinco centavos) a título de honorários sucumbenciais, considerando o descumprimento, pela executada, da liminar prolatada por este Juízo no bojo dos autos principais. Pois bem. Considerando que é possível o cumprimento provisório das astreintes, nos termos do art. 537, §3º do CPC/15, determino a intimação da devedora para que, no prazo de 15 (quinze) dias, nos termos do art. 523, caput, do diploma processual civil, efetue o pagamento da multa cominatória no valor de R$ 229.304,55 (duzentos e vinte e nove mil, trezentos e quatro reais e cinquenta e cinco centavos), ante a delimitação exarada no comando judicial inobservado. Além disso, impende consignar, de pronto, que caso não efetuado o pagamento da referida quantia no prazo mencionado, o montante da condenação será acrescido de multa no percentual de 10% (dez por cento), além de honorários advocatícios também no importe de 10% (dez por cento) sobre o montante objeto da dívida, a teor do art. 523, §1º, do CPC/15. No mais, registro que, na falta do pagamento voluntário e tempestivo, será expedido, desde logo, mandado de penhora e avaliação, seguindo-se os atos de expropriação, nos moldes do art. 523, §3º, da Lei nº 13.105/2015, ressaltando, porém, que o presente procedimento corre por iniciativa e responsabilidade do exequente, que se obriga, se a sentença for reformada, a reparar os danos que o executado haja sofrido. Ademais, consigno, desde já, que o levantamento do valor objeto do presente cumprimento se sujeita ao trânsito em julgado da sentença favorável à parte peticionante. Por fim, transcorrido o prazo previsto para pagamento voluntário sem que este tenha sido realizado,o executado poderá apresentar impugnação, querendo, no prazo de 15 (quinze dias), nos termos dos arts. 520, §1º, e 525 do diploma processual civil. Publique-se. Registre-se. Intimem-se. Maceió , 05 de junho de 2024. Maurício César Breda Filho Juiz de DireitoVencimento: 17/07/2024"
+    },
+    {
+      "data": "06/06/2024",
+      "descricao": "Ato Publicado\nRelação: 0527/2024\nData da Publicação: 07/06/2024\nNúmero do Diário: 3557"
+    },
+    {
+      "data": "05/06/2024",
+      "descricao": "Disponibilização no Diário da Justiça Eletrônico\nRelação: 0527/2024\nTeor do ato: DECISÃO Trata-se de procedimento de cumprimento provisório de decisão inaugurado por Luna & Guardia Sociedade de Advogados, em face de Localyne Transporte Tur. Ltda, ambos já devidamente qualificados nestes autos. No presente procedimento, a requerente pretende que a parte ré seja compelida a efetuar o pagamento de R$ 229.304,55 (duzentos e vinte e nove mil, trezentos e quatro reais e cinquenta e cinco centavos) a título de honorários sucumbenciais, considerando o descumprimento, pela executada, da liminar prolatada por este Juízo no bojo dos autos principais. Pois bem. Considerando que é possível o cumprimento provisório das astreintes, nos termos do art. 537, §3º do CPC/15, determino a intimação da devedora para que, no prazo de 15 (quinze) dias, nos termos do art. 523, caput, do diploma processual civil, efetue o pagamento da multa cominatória no valor de R$ 229.304,55 (duzentos e vinte e nove mil, trezentos e quatro reais e cinquenta e cinco centavos), ante a delimitação exarada no comando judicial inobservado. Além disso, impende consignar, de pronto, que caso não efetuado o pagamento da referida quantia no prazo mencionado, o montante da condenação será acrescido de multa no percentual de 10% (dez por cento), além de honorários advocatícios também no importe de 10% (dez por cento) sobre o montante objeto da dívida, a teor do art. 523, §1º, do CPC/15. No mais, registro que, na falta do pagamento voluntário e tempestivo, será expedido, desde logo, mandado de penhora e avaliação, seguindo-se os atos de expropriação, nos moldes do art. 523, §3º, da Lei nº 13.105/2015, ressaltando, porém, que o presente procedimento corre por iniciativa e responsabilidade do exequente, que se obriga, se a sentença for reformada, a reparar os danos que o executado haja sofrido. Ademais, consigno, desde já, que o levantamento do valor objeto do presente cumprimento se sujeita ao trânsito em julgado da sentença favorável à parte peticionante. Por fim, transcorrido o prazo previsto para pagamento voluntário sem que este tenha sido realizado,o executado poderá apresentar impugnação, querendo, no prazo de 15 (quinze dias), nos termos dos arts. 520, §1º, e 525 do diploma processual civil. Publique-se. Registre-se. Intimem-se. Maceió , 05 de junho de 2024. Maurício César Breda Filho Juiz de Direito\nAdvogados(s): Flavio Marcelo Guardia (OAB 34067/PE)"
+    },
+    {
+      "data": "05/06/2024",
+      "descricao": "Decisão Proferida\nDECISÃO Trata-se de procedimento de cumprimento provisório de decisão inaugurado por Luna & Guardia Sociedade de Advogados, em face de Localyne Transporte Tur. Ltda, ambos já devidamente qualificados nestes autos. No presente procedimento, a requerente pretende que a parte ré seja compelida a efetuar o pagamento de R$ 229.304,55 (duzentos e vinte e nove mil, trezentos e quatro reais e cinquenta e cinco centavos) a título de honorários sucumbenciais, considerando o descumprimento, pela executada, da liminar prolatada por este Juízo no bojo dos autos principais. Pois bem. Considerando que é possível o cumprimento provisório das astreintes, nos termos do art. 537, §3º do CPC/15, determino a intimação da devedora para que, no prazo de 15 (quinze) dias, nos termos do art. 523, caput, do diploma processual civil, efetue o pagamento da multa cominatória no valor de R$ 229.304,55 (duzentos e vinte e nove mil, trezentos e quatro reais e cinquenta e cinco centavos), ante a delimitação exarada no comando judicial inobservado. Além disso, impende consignar, de pronto, que caso não efetuado o pagamento da referida quantia no prazo mencionado, o montante da condenação será acrescido de multa no percentual de 10% (dez por cento), além de honorários advocatícios também no importe de 10% (dez por cento) sobre o montante objeto da dívida, a teor do art. 523, §1º, do CPC/15. No mais, registro que, na falta do pagamento voluntário e tempestivo, será expedido, desde logo, mandado de penhora e avaliação, seguindo-se os atos de expropriação, nos moldes do art. 523, §3º, da Lei nº 13.105/2015, ressaltando, porém, que o presente procedimento corre por iniciativa e responsabilidade do exequente, que se obriga, se a sentença for reformada, a reparar os danos que o executado haja sofrido. Ademais, consigno, desde já, que o levantamento do valor objeto do presente cumprimento se sujeita ao trânsito em julgado da sentença favorável à parte peticionante. Por fim, transcorrido o prazo previsto para pagamento voluntário sem que este tenha sido realizado,o executado poderá apresentar impugnação, querendo, no prazo de 15 (quinze dias), nos termos dos arts. 520, §1º, e 525 do diploma processual civil. Publique-se. Registre-se. Intimem-se. Maceió , 05 de junho de 2024. Maurício César Breda Filho Juiz de DireitoVencimento: 04/07/2024"
+    },
+    {
+      "data": "05/06/2024",
+      "descricao": "Conclusos"
+    },
+    {
+      "data": "05/06/2024",
+      "descricao": "Distribuído por Dependência\nExecução de verba honorária decorrente de sentença prolatada nos autos do processo 0736342-66.2022.8.02.0001."
+    }
+  ]
+}
